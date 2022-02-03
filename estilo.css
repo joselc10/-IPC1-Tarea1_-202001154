@@ -1,0 +1,11 @@
+#tab{
+	color: white;
+	text-shadow: 2px 2px 5px green,
+	             4px 4px 5px blue,
+	             8px 8px 5px silver;
+	 font-size: 15px;
+	 font-family: Arial black;
+}
+body{
+	background-image: url(fondo10.png);
+}
